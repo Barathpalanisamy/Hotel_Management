@@ -9,7 +9,7 @@ from hotel_management import __version__ as version
 setup(
 	name="hotel_management",
 	version=version,
-	description="hotel_rooms",
+	description="Rooms",
 	author="barath",
 	author_email="barath@gmail.com",
 	packages=find_packages(),

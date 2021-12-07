@@ -1,6 +1,6 @@
-## hotel-management
+## Hotel Management
 
-hotel_rooms
+Rooms
 
 #### License
 

@@ -3,10 +3,10 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "hotel-management",
+			"module_name": "Hotel Management",
 			"color": "grey",
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
-			"label": _("hotel-management")
+			"label": _("Hotel Management")
 		}
 	]

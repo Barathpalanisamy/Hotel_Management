@@ -1,1 +1,1 @@
-hotel-management
+Hotel Management

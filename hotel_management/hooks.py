@@ -1,9 +1,9 @@
 from . import __version__ as app_version
 
 app_name = "hotel_management"
-app_title = "hotel-management"
+app_title = "Hotel Management"
 app_publisher = "barath"
-app_description = "hotel_rooms"
+app_description = "Rooms"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "barath@gmail.com"
